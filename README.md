@@ -32,7 +32,7 @@ String countryCode = mapper.toISO3166("000") // NO
 // or
 
 
-String dsfCountryCode= mapper.fromISO3166("NO"); /// 000
+String dsfCountryCode = mapper.fromISO3166("NO"); /// 000
 
 ```
 
