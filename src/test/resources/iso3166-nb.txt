@@ -1,0 +1,312 @@
+####################
+# Country codes from ISO-3166, translated to Norwegian (Bokmål) by
+# Gustav Foseid <gustav@foseid.priv.no>. This file is coded in
+# ISO-8859-1.
+# 
+# Sources: http://www.iso.org/iso/en/prods-services/iso3166ma/index.html
+#          http://www.sprakrad.no/geografi.htm (no longer available)
+#          http://www.sprakrad.no/Sprakhjelp/Rettskriving_Ordboeker/Geografiske_namn/
+#
+# Lisensiert under Creative Commons CC0
+#
+####################
+# 
+# Landskoder fra ISO-3166, oversatt til norsk (bokmål) av Gustav
+# Foseid <gustav@foseid.priv.no>. Denne fila er kodet i ISO-8859-1.
+# 
+# Kilder: http://www.iso.org/iso/en/prods-services/iso3166ma/index.html
+#         http://www.sprakrad.no/geografi.htm (ikke lenger tilgjengelig)
+#         http://www.sprakrad.no/Sprakhjelp/Rettskriving_Ordboeker/Geografiske_namn/
+#
+# Licensed under Creative Commons CC0
+#
+####################
+
+AD	Andorra
+#AE	De forente arabiske emirater
+AE	De arabiske emirater
+AF	Afghanistan
+AG	Antigua og Barbuda
+AI	Anguilla
+AL	Albania
+AM	Armenia
+AN	De nederlandske antiller
+AO	Angola
+AQ	Antarktis
+AR	Argentina
+#AS	Amerikansk Samoa
+AS	Am. Samoa
+AT	Østerrike
+AU	Australia
+AW	Aruba
+AX	Åland
+#AZ	Aserbajdsjan
+AZ	Azerbajdzjan
+BA	Bosnia-Hercegovina
+BB	Barbados
+BD	Bangladesh
+BE	Belgia
+BF	Burkina Faso
+BG	Bulgaria
+BH	Bahrain
+BI	Burundi
+BJ	Benin
+#BL	Saint-Barthélemy
+BL	St Barthelemy
+BM	Bermuda
+BN	Brunei
+BO	Bolivia
+BQ	Bonaire, Sint Eustatius og Saba
+BR	Brasil
+BS	Bahamas
+BT	Bhutan
+BV	Bouvetøya
+BW	Botswana
+BY	Hviterussland
+BZ	Belize
+CA	Canada
+CC	Kokosøyene
+#CD	Kongo
+CD	Kongo, den demokr. republ
+#CF	Den sentralafrikanske republikk
+CF	Sentralafrikanske republikk
+#CG	Kongo-Brazzaville
+CG	Kongo, republikken
+CH	Sveits
+#CI	Elfenbenskysten
+CI	Elfenbeinskysten
+CK	Cookøyene
+CL	Chile
+CM	Kamerun
+CN	Kina
+CO	Colombia
+CR	Costa Rica
+CU	Cuba
+CV	Kapp Verde
+#CW	Curaçao
+CW	Curacao
+CX	Christmasøya
+CY	Kypros
+#CZ	Tsjekkia
+CZ	DEN TSJEKKISKE REP.
+DE	Tyskland
+DJ	Djibouti
+DK	Danmark
+DM	Dominica
+#DO	Den dominikanske republikk
+DO	Den dominikanske rep
+DZ	Algerie
+EC	Ecuador
+EE	Estland
+EG	Egypt
+EH	Vest-Sahara
+ER	Eritrea
+ES	Spania
+ET	Etiopia
+FI	Finland
+#FJ	Fiji
+FJ	Fijii
+FK	Falklandsøyene
+FM	Mikronesiaføderasjonen
+FO	Færøyene
+FR	Frankrike
+GA	Gabon
+GB	Storbritannia
+GD	Grenada
+GE	Georgia
+GF	Fransk Guyana
+GG	Guernsey
+GH	Ghana
+GI	Gibraltar
+GL	Grønland
+GM	Gambia
+GN	Guinea
+GP	Guadeloupe
+GQ	Ekvatorial-Guinea
+GR	Hellas
+#GS	Sør-Georgia og de søre Sandwichøyene
+GS	Sør-Georgia og de søndre Sandwichøyene
+GT	Guatemala
+GU	Guam
+GW	Guinea-Bissau
+GY	Guyana
+HK	Hongkong
+#HM	Heard- og McDonald-øyene
+HM	Heard- og McDonaldøyene
+HN	Honduras
+HR	Kroatia
+HT	Haiti
+HU	Ungarn
+ID	Indonesia
+IE	Irland
+IL	Israel
+IM	Man
+IN	India
+#IO	Britisk territorium i Indiahavet
+IO	Britisk-indiske hav
+IQ	Irak
+IR	Iran
+IS	Island
+IT	Italia
+JE	Jersey
+JM	Jamaica
+JO	Jordan
+JP	Japan
+KE	Kenya
+#KG	Kirgisistan
+KG	Kyrgyzstan
+KH	Kambodsja
+KI	Kiribati
+KM	Komorene
+#KN	Saint Kitts og Nevis
+KN	St.Kitts og Nevis
+KP	Nord-Korea
+KR	Sør-Korea
+KW	Kuwait
+KY	Caymanøyene
+#KZ	Kasakhstan
+KZ	Kazakhstan
+LA	Laos
+LB	Libanon
+#LC	Saint Lucia
+LC	St. Lucia
+LI	Liechtenstein
+LK	Sri Lanka
+LR	Liberia
+LS	Lesotho
+LT	Litauen
+LU	Luxembourg
+LV	Latvia
+LY	Libya
+MA	Marokko
+MC	Monaco
+MD	Moldova
+ME	Montenegro
+#MF	Saint-Martin
+MF	Saint Martin
+MG	Madagaskar
+MH	Marshalløyene
+MK	Makedonia
+ML	Mali
+#MM	Burma
+MM	Myanmar (Burma)
+MN	Mongolia
+MO	Macao
+MP	Nord-Marianene
+MQ	Martinique
+MR	Mauritania
+MS	Montserrat
+MT	Malta
+MU	Mauritius
+MV	Maldivene
+MW	Malawi
+MX	Mexico
+MY	Malaysia
+MZ	Mosambik
+NA	Namibia
+#NC	Ny-Caledonia
+NC	Ny-kaledonia
+NE	Niger
+NF	Norfolkøya
+NG	Nigeria
+NI	Nicaragua
+NL	Nederland
+NO	Norge
+NP	Nepal
+NR	Nauru
+NU	Niue
+NZ	New Zealand
+OM	Oman
+PA	Panama
+PE	Peru
+PF	Fransk Polynesia
+PG	Papua Ny-Guinea
+PH	Filippinene
+PK	Pakistan
+PL	Polen
+#PM	Saint-Pierre-et-Miquelon
+PM	St.Pierre og Miquelon
+PN	Pitcairn
+PR	Puerto Rico
+#PS	De okkuperte palestinske områdene
+PS	Det palestinske området
+PT	Portugal
+PW	Palau
+PY	Paraguay
+QA	Qatar
+RE	Réunion
+RO	Romania
+RS	Serbia
+RU	Russland
+RW	Rwanda
+SA	Saudi-Arabia
+SB	Salomonøyene
+SC	Seychellene
+SD	Sudan
+SE	Sverige
+SG	Singapore
+#SH	St. Helena
+SH	St.Helena
+SI	Slovenia
+SJ	Svalbard og Jan Mayen
+SK	Slovakia
+SL	Sierra Leone
+SM	San Marino
+SN	Senegal
+SO	Somalia
+#SR	Surinam
+SR	Suriname
+SS	Sør-Sudan
+#ST	São Tomé og Príncipe
+ST	Sao Tome og Principe
+SV	El Salvador
+SX	Sint Maarten
+SY	Syria
+SZ	Swaziland
+#TC	Turks- og Caicosøyene
+TC	Turks/Caicosøyene
+#TD	Tsjad
+TD	Tchad
+#TF	Søre franske territorier
+TF	De franske territoriene i sør
+TG	Togo
+TH	Thailand
+#TJ	Tadsjikistan
+TJ	Tadzjikistan
+TK	Tokelau
+TL	Øst-Timor
+TM	Turkmenistan
+TN	Tunisia
+TO	Tonga
+TR	Tyrkia
+TT	Trinidad og Tobago
+TV	Tuvalu
+TW	Taiwan
+TZ	Tanzania
+UA	Ukraina
+UG	Uganda
+UM	USA, mindre, utenforliggende øyer
+US	USA
+UY	Uruguay
+#UZ	Usbekistan
+UZ	Uzbekistan
+VA	Vatikanstaten
+#VC	Saint Vincent og Grenadinene
+VC	St. Vincent og Grenadinene
+VE	Venezuela
+#VG	Jomfruøyene (Britisk)
+VG	Jomfruøyene brit.
+#VI	Jomfruøyene (USA)
+VI	Jomfruøyene am.
+VN	Vietnam
+VU	Vanuatu
+#WF	Wallis- og Futunaøyene
+WF	Wallis/Futunaøyene
+#WS	Samoa
+WS	Vest-Samoa
+#YE	Jemen
+YE	Yemen
+YT	Mayotte
+ZA	Sør-Afrika
+ZM	Zambia
+ZW	Zimbabwe
