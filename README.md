@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/skjolber/dsf.svg?branch=master)](https://travis-ci.org/skjolber/dsf)
 
 # dsf
-Simple utility for interaction with the Norwegian resident register service `Det norske [folkeregisteret]`.
+Simple utility for interaction with the Norwegian resident register service [Det norske folkeregisteret].
 
 
 ## License
@@ -54,4 +54,4 @@ where the ISO3166 source has been modified to include all the countries in folke
 [issue-tracker]:       			https://github.com/skjolber/dsf/issues
 [Maven]:                		http://maven.apache.org/
 [1.0.0]:						https://github.com/skjolber/dsf/releases/tag/dsf-1.0.0
-[folkeregisteret]:				https://no.wikipedia.org/wiki/Det_sentrale_folkeregisteret
+[Det norske folkeregisteret]:	https://no.wikipedia.org/wiki/Det_sentrale_folkeregisteret
