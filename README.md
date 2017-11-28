@@ -21,10 +21,10 @@ Example dependency config
 ```
 
 # Usage
-The simple utility contains a simple mapper `FolkeregisterCountryMapper`.
+The simple utility contains a simple mapper `NorwegianResidentRegisterCountryMapper`.
 
 ```java
-FolkeregisterCountryMapper mapper = new FolkeregisterCountryMapper();
+NorwegianResidentRegisterCountryMapper mapper = new NorwegianResidentRegisterCountryMapper();
 
 
 String countryCode = mapper.toISO3166("000") // NO

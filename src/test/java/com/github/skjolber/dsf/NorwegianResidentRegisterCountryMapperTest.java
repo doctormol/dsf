@@ -3,9 +3,9 @@ package com.github.skjolber.dsf;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class FolkeregisterCountryMapperTest {
+public class NorwegianResidentRegisterCountryMapperTest {
 
-	private FolkeregisterCountryMapper mapper = new FolkeregisterCountryMapper();
+	private NorwegianResidentRegisterCountryMapper mapper = new NorwegianResidentRegisterCountryMapper();
 	
 	@Test
 	public void testCodes() {

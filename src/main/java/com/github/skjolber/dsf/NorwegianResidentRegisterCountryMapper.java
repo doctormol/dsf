@@ -8,13 +8,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Country code mapper for Folkeregisteret.<br/><br/>
- * 
+ * Country code mapper for Folkeregisteret. 
+ *  
  * Thread safe.
  *
  */
 
-public class FolkeregisterCountryMapper {
+public class NorwegianResidentRegisterCountryMapper {
 	
 	private static final String RESOURCE = "/dsf/iso3166.mapping.txt";
 	private static final int COUNTRIES = 250;
@@ -23,18 +23,18 @@ public class FolkeregisterCountryMapper {
 	private Map<String, String> dsfToIso3166;
 	private Map<String, String> iso3166ToDsf;
 
-	public FolkeregisterCountryMapper() {
+	public NorwegianResidentRegisterCountryMapper() {
 		
 		Map<String, String> dsfToIso3166 = new HashMap<>(COUNTRIES * 2);
 		Map<String, String> iso3166ToDsf = new HashMap<>(COUNTRIES * 2);
 
 		// NAVN KODE
-		BufferedReader reader = new BufferedReader(new InputStreamReader(ISO3166ListMappingTool.class.getResourceAsStream(RESOURCE), StandardCharsets.UTF_8));
+		BufferedReader reader = new BufferedReader(new InputStreamReader(NorwegianResidentRegisterCountryMapper.class.getResourceAsStream(RESOURCE), StandardCharsets.UTF_8));
 		
 		try {
 			String line;
 			while((line = reader.readLine()) != null) {
-				if(line.trim().isEmpty() || line.startsWith("#")) {
+				if(line.isEmpty()) {
 					continue;
 				}
 			
@@ -60,7 +60,7 @@ public class FolkeregisterCountryMapper {
 	/**
 	 * Map from Folkeregister country code (3 digits) to ISO3166 country code (two uppercase letters).
 	 * 
-	 * @param dsfCountryCode
+	 * @param dsfCountryCode Norwegian resident register (Folkeregister) country code
 	 * @return ISO3166 country code, null if unknown.
 	 */
 	
@@ -71,8 +71,8 @@ public class FolkeregisterCountryMapper {
 	/**
 	 * Map from ISO3166 country code (two uppercase letters) to Folkeregister country code (3 digits).
 	 * 
-	 * @param dsfCountryCode
-	 * @return Folkeregister country code, null if unknown.
+	 * @param countryCode ISO3166 country code
+	 * @return Norwegian resident register (Folkeregister) country code, null if unknown.
 	 */
 
 	public String fromISO3166(String countryCode) {
